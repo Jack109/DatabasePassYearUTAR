@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shiporderDB>
+	<shiporder orderid="999999">
+		<orderperson>lau</orderperson>
+		<shipto>berlin</shipto>
+		<item>
+			<title>abc</title>
+			<note>qwe</note>
+			<quantity>12</quantity>
+			<price>5.00</price>
+		</item>
+		<item>
+			<title>zxc</title>
+			<note>qqtyu</note>
+			<quantity>60</quantity>
+			<price>40.00</price>
+		</item>
+	</shiporder>
+</shiporderDB>
