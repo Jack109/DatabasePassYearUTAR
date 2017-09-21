@@ -11,7 +11,7 @@
 							<xs:element name="Playedln" >
 								<xs:complexType>
 									<xs:sequence>
-										<xs:element name="MovieTitle type="xs:string" maxOccurs="unbounded"/>
+										<xs:element name="MovieTitle" type="xs:string" maxOccurs="unbounded"/>
 									</xs:sequence>
 								</xs:complexType>
 							</xs:element>
